@@ -1,0 +1,8 @@
+*.keras
+*.h5
+*.zip
+*.rar
+/assets*
+/winds_templates
+/videos ai
+/logs
